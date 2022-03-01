@@ -1,4 +1,4 @@
-# Tool-for-Construction-Logistics
+# Parts-Inventory
 A program that takes a parts-list (including all elements at different abstraction levels), for a single constructed component, as an input and implements a tree to calculate the total price, total required basic parts, and whether those required parts exist in the stock (represented as a stock-list).
 
 The code is implemented in python 3 and each operation is implemented as a function.
